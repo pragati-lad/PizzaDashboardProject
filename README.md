@@ -63,4 +63,14 @@ Rank by Category: RANK_UNIQUE(SUM([Quantity]))
 - Filter by: `Pizza Category` | `Size` | `Date Range` *(if applicable)*.  
 
 
-dashboard:https://github.com/pragati-lad/PizzaDashboardProject/blob/main/dashboard_img.png
+# FILES
+
+### **Dataset Used**
+- <a href="https://github.com/pragati-lad/PizzaDashboardProject/blob/main/pizza_sales.csv">`pizza_sales.csv`</a>
+
+### **Visual Assets**
+| Asset Type          | Preview/Link                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| **Dashboard ss**  | <a href="https://github.com/pragati-lad/PizzaDashboardProject/blob/main/dashboard_img.png">`dashboard.png`</a> |
+| **PPT Background**  | <a href="https://github.com/pragati-lad/PizzaDashboardProject/blob/main/bkgd_ppt.pptx">`bg_ppt.jpg`</a> |
+| **Dashboard BG img**    | <a href="https://github.com/pragati-lad/PizzaDashboardProject/blob/main/bkgd_img.jpg">`dashboard_bg.jpg`</a> |
