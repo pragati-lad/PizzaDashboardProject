@@ -80,6 +80,6 @@ Rank by Category: RANK_UNIQUE(SUM([Quantity]))
 
 [![Dashboard Screenshot](https://github.com/pragati-lad/PizzaDashboardProject/blob/main/dashboard_img.png?raw=true)](https://public.tableau.com/views/PiZZa)
 <p align="center">
-  <b>> > > <span style="font-size: 1.2em">🚀 [CLICK IMAGE FOR INTERACTIVE DASHBOARD]</span> < < <</b>
+ *↑ Click the image to interact with the dashboard*
 </p>
 
