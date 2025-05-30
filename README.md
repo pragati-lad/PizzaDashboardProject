@@ -1,12 +1,14 @@
-OBJECTIVE
+# OBJECTIVE
+
 Analyze pizza sales performance across categories, sizes, and time periods to optimize: Inventory planning
                                                                                         Marketing strategies  
                                                                                         Sales promotions
                                                                                         
-DATA OVERVIEW
+# DATA OVERVIEW
+
 The dataset used contains sales transactions from a pizza restaurant
 
-FEATURES OF DATASET:
+## FEATURES OF DATASET:
 
 order_id, pizza_id,
 order_date,
@@ -21,7 +23,7 @@ unit_price,
 total_price
 
 
-CALCULATED FIELDS:
+# CALCULATED FIELDS:
 
 Total Sales: [Quantity] * [Unit Price]
 
@@ -32,7 +34,7 @@ Avg. Order Value: AVG([Total Price])
 Rank by Category: RANK_UNIQUE(SUM([Quantity]))
 
 
-Key Performance Indicators
+# Key Performance Indicators
 
 | **Metric**               | **Value**            | 
 |--------------------------|----------------------|
@@ -43,9 +45,9 @@ Key Performance Indicators
 
 
 
-VISUALS AND CHARTS:
+# VISUALS AND CHARTS:
 
-Packed Bubble Chart: Shows pizza quantity by name/size.
+## Packed Bubble Chart: Shows pizza quantity by name/size.
                       Bubble size = order volume; color = pizza size.
 
 Sales Distribution: Pie Chart: % revenue by category.
