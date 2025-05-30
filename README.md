@@ -74,3 +74,12 @@ Rank by Category: RANK_UNIQUE(SUM([Quantity]))
 | **Dashboard ss**  | <a href="https://github.com/pragati-lad/PizzaDashboardProject/blob/main/dashboard_img.png">`dashboard.png`</a> |
 | **PPT Background**  | <a href="https://github.com/pragati-lad/PizzaDashboardProject/blob/main/bkgd_ppt.pptx">`bg_ppt.jpg`</a> |
 | **Dashboard BG img**    | <a href="https://github.com/pragati-lad/PizzaDashboardProject/blob/main/bkgd_img.jpg">`dashboard_bg.jpg`</a> |
+
+### **Interactive Dashboard**
+
+
+# dashboard glance 
+## 📊 Dashboard Preview
+[![Dashboard Screenshot](https://github.com/pragati-lad/PizzaDashboardProject/blob/main/dashboard_img.png?raw=true)]
+*↑ Click image to interact with live dashboard*
+
