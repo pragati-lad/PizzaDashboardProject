@@ -47,17 +47,19 @@ Rank by Category: RANK_UNIQUE(SUM([Quantity]))
 
 # Visuals and Charts:
 
-## Packed Bubble Chart:
-                      
-                      Shows pizza quantity by name/size.
-                      Bubble size = order volume; color = pizza size.
+## Packed Bubble Chart:               
+Shows pizza quantity by name/size.
+Bubble size = order volume; color = pizza size.
 
-Sales Distribution: Pie Chart: % revenue by category.
-                     Bar Chart: Total sales per category.
+## Sales Distribution: 
+Pie Chart: % revenue by category.
+Bar Chart: Total sales per category.
 
-Performance Highlights: Treemap: Top pizzas by sales (weighted + color-coded by quantity).
-                          Top 3 Pizzas/Category: Horizontal bar chart.
+## Performance Highlights: 
+Treemap: Top pizzas by sales (weighted + color-coded by quantity).
+Top 3 Pizzas/Category: Horizontal bar chart.
 
-Interactive Filters: Dynamic filtering by pizza category.
+## Interactive Filters: 
+Dynamic filtering by pizza category.
 
 
