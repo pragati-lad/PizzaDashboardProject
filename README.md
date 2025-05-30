@@ -70,3 +70,6 @@ Top 3 Pizzas/Category: Horizontal bar chart.
 Dynamic filtering by pizza category.
 
 
+### **2. Sales Distribution**  
+- **Pie Chart**: % revenue by category.  
+- **Bar Chart**: Total sales per category. 
