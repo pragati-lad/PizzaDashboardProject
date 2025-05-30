@@ -63,3 +63,4 @@ Rank by Category: RANK_UNIQUE(SUM([Quantity]))
 - Filter by: `Pizza Category` | `Size` | `Date Range` *(if applicable)*.  
 
 
+dashboard:https://github.com/pragati-lad/PizzaDashboardProject/blob/main/dashboard_img.png
