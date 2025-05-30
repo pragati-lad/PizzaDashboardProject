@@ -79,5 +79,7 @@ Rank by Category: RANK_UNIQUE(SUM([Quantity]))
 # Dashboard glance 
 
 [![Dashboard Screenshot](https://github.com/pragati-lad/PizzaDashboardProject/blob/main/dashboard_img.png?raw=true)](https://public.tableau.com/views/PiZZa)
-*Click the badge above to explore!*
+<p align="center">
+  <b>> > > <span style="font-size: 1.2em">🚀 [CLICK IMAGE FOR INTERACTIVE DASHBOARD]</span> < < <</b>
+</p>
 
